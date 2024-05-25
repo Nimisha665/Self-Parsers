@@ -1,0 +1,34 @@
+Airline Name,KLM Royal Dutch Airlines,Document_Type,INV
+Airline Address,"2nd Floor, New Import Wing, Cargo Complex, Sahar Road, Andheri East, Mumbai-400099 ",Airline GST Number,27AABCK3950H1ZK
+Airline Invoice Date,31-07-2023 ,Airline Invoice Number,IN27/2307/00459
+Original Invoice Date,,Original Invoice Number,
+Ticket no,9654067852,Customer Name,CAPGEMINI TECHNOLOGY SERVICES INDI 
+Customer GST Number,27AABCM4573E2ZI,Place of Supply,MAHARASHTRA
+Customer Address,,Credit Note No,
+Credit Note Date,,HSN,996425
+PNR,NOZHJ4/1A,Passenger Name,PASSENGER NAME REPL DUE GDPR
+Origin,BOM,Destination,BOM
+Total Invoice Amount," 118,405.00 INR"
+T,I,C,K,E,T, ,C,A,L,C,U,L,A,T,I,O,N
+N,E,T
+C,G,S,T,"
+",2,.,5,0, ,%
+S,G,S,T,"
+",2,.,5,0, ,%
+I,G,S,T,"
+",0,.,0,0, ,%
+T,O,T,A,L
+C,u,r,r,e,n,c,y
+T,a,x,a,b,l,e, ,c,h,a,r,g,e,s, ,(,F,a,r,e, ,+,"
+",Y,Q,",",Y,R,",",D,U,",",),"
+",N,o,n, ,t,a,x,a,b,l,e, ,c,h,a,r,g,e,s
+1,0,3,",",3,0,7,.,0,0,"
+",9,",",9,3,2,.,0,0
+0,.,0,0
+0,.,0,0
+5,",",1,6,6,.,0,0
+1,0,8,",",4,7,3,.,0,0,"
+",9,",",9,3,2,.,0,0
+I,N,R,"
+",I,N,R
+T,O,T,A,L, ,I,N, ,T,I,C,K,E,T, ,C,U,R,R,E,N,C,Y, ,1,1,8,",",4,0,5,.,0,0, ,I,N,R
